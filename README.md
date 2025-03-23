@@ -29,7 +29,7 @@
 
 ### 🔹 Step 1: Clone the Repository
 ```
-git clone https://github.com/your-username/turkish-audio-summarizer.git
+git clone https://github.com/ziftgny/turkish-audio-summarizer.git
 cd turkish-audio-summarizer
 ```
 ### 🔹 Step 2: Create a Virtual Environment
