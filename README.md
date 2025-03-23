@@ -10,9 +10,6 @@
 
 ## 📸 Screenshots
 
-### 🎧 Transcription Page
-![Transcription Page](assets/transcription.png)
-
 ### ✍️ Summarization Page
 ![Summarization Page](assets/summarization.png)
 
