@@ -8,7 +8,7 @@ import time
 app = FastAPI()
 
 # ✅ Whisper Model (Unchanged, but now with a timer)
-whisper_model = whisper.load_model("medium",device="cpu")
+whisper_model = whisper.load_model("medium",device="cuda")
 
 # ✅ Load Helsinki-NLP Turkish-to-English Translation Model
 TR_TO_EN_MODEL = "Helsinki-NLP/opus-mt-tc-big-tr-en"
